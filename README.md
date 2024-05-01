@@ -1,7 +1,7 @@
 # BRAINBYTE_SEARCH_ENGINE
 ## Introduction
 
-A free, opensource, and offline research engine based on `BM25` and `BERT` models. 
+A free, opensource, and offline search engine based on `BM25` and `BERT` models. 
 Built using `PyTorch` and `PyQt6`.
 
 ## Usage
